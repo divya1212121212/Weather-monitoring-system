@@ -1,0 +1,12 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"U2",1," Temperature Sensor [TMP36]"
+"U3",1," Wifi Module (ESP8266)"
+"R1, R2, R3, R4",4,"1 kΩ Resistor"
+"PIEZO1",1," Piezo"
+"GAS1",1," Gas Sensor"
+"U4",1," LCD 16 x 2"
+"DIST1",1," Ultrasonic Distance Sensor (4-pin)"
+"R5",1,"325 kΩ Resistor"
+"Rpot1",1,"250 kΩ Potentiometer"
+"Meter1",1,"Voltage Multimeter"
