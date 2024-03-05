@@ -1,0 +1,34 @@
+ltage: 1.09 V
+AT+CIPSEND=123
+GET /update?api_key=O1WB76S0Z5G24Y0O&field1=24.71&field2=85&field3=0.00&field4=31.03 HTTP/1.1
+Host: api.thingspeak.com
+
+ESP8266 sends data to the server
+Current temperature: 24.71
+Gas sensor value: 85
+Rainfall: 331.23
+Wind Speed: 31.03 MPH
+Anemometer Voltage: 1.09 V
+AT+CIPSEND=125
+GET /update?api_key=O1WB76S0Z5G24Y0O&field1=24.71&field2=85&field3=331.23&field4=31.03 HTTP/1.1
+Host: api.thingspeak.com
+
+Current temperature: 24.71
+Gas sensor value: 85
+Rainfall: 69.68
+Wind Speed: 31.03 MPH
+Anemometer Voltage: 1.09 V
+AT+CIPSEND=124
+GET /update?api_key=O1WB76S0Z5G24Y0O&field1=24.71&field2=85&field3=69.68&field4=31.03 HTTP/1.1
+Host: api.thingspeak.com
+
+ESP8266 sends data to the server
+Current temperature: 24.71
+Gas sensor value: 85
+Rainfall: 331.23
+Wind Speed: 31.03 MPH
+Anemometer Voltage: 1.09 V
+AT+CIPSEND=125
+GET /update?api_key=O1WB76S0Z5G24Y0O&field1=24.71&field2=85&field3=331.23&field4=31.03 HTTP/1.1
+Host: api.thingspeak.com
+
